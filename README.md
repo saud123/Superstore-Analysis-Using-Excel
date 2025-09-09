@@ -37,7 +37,7 @@ This helps prioritize growth opportunities, optimize marketing, and reduce losse
 
 ---
 
-![KPI Dashboard](./screenshots/kpi_dashboard.png)
+![Complete Dashboard](./Complete Dashboard.PNG)
 
 ## 🔍 Insights & Findings
 - 🔻 **Discounts Hurt More Than Help** – Blanket discounts reduced profit (-6.657)  
