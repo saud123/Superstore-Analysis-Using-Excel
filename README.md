@@ -37,7 +37,7 @@ This helps prioritize growth opportunities, optimize marketing, and reduce losse
 
 ---
 
-![Complete Dashboard](./Complete Dashboard.PNG)
+![Complete Dashboard](https://github.com/saud123/Superstore-Analysis-Using-Excel/blob/main/Complete%20Dashboard.PNG?raw=true)
 
 ## 🔍 Insights & Findings
 - 🔻 **Discounts Hurt More Than Help** – Blanket discounts reduced profit (-6.657)  
