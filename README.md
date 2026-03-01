@@ -136,7 +136,9 @@ The final deliverable is a one-page interactive KPI dashboard designed for busin
 
 ## 📷 Dashboard Preview
 
-![Complete Dashboard](https://github.com/saud123/Superstore-Analysis-Using-Excel/blob/main/Dashboard.PNG)
+
+<img width="1151" height="552" alt="image" src="https://github.com/user-attachments/assets/6eab30a2-5e7a-4ff9-a0eb-55fd3aae62c1" />
+
 
 ---
 
