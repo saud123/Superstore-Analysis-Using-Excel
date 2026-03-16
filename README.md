@@ -91,7 +91,7 @@ The final deliverable is a one-page interactive KPI dashboard designed for busin
 
 - Furniture produced $742,000 in sales but only $18,451 in profit, resulting in a very low profit margin of approximately 2.5%, indicating significant pricing or cost inefficiencies.
 
-- Despite generating $2.29M in total revenue, the company achieved an overall profit margin of only 12.47%, and the negative discount effectiveness score (-6.66) suggests that aggressive discounting is reducing profitability.
+- Despite generating $2.29M in total revenue, the company achieved an overall profit margin of only 12.47%, and the discount effectiveness score (88.78%) suggests Highly Efficient; Maintain current strategy and focus on upselling. 
 
 - Sales grew steadily from 2014 to 2017, peaking near $0.7M annually, before dropping sharply in 2018, signaling a potential business disruption or strategic misalignment.
 
@@ -103,8 +103,6 @@ The final deliverable is a one-page interactive KPI dashboard designed for busin
 - Improve Furniture profitability by targeting a margin increase from ~2.5% to at least 8–10%, which could potentially add $40K–$55K in additional annual profit.
 
 - Expand investment in Technology, which already contributes over $145K in profit, by prioritizing high-margin SKUs and upselling strategies to accelerate profit growth.
-
-- Redesign the discount strategy to protect the overall 12.47% profit margin, introducing minimum margin thresholds to prevent further erosion.
 
 - Conduct a detailed analysis of the 2018 revenue drop (from approximately $700K to near zero trend level) to identify customer churn, supply issues, or competitive pressure.
 
@@ -137,7 +135,7 @@ The final deliverable is a one-page interactive KPI dashboard designed for busin
 ## 📷 Dashboard Preview
 
 
-<img width="1151" height="552" alt="image" src="https://github.com/user-attachments/assets/6eab30a2-5e7a-4ff9-a0eb-55fd3aae62c1" />
+<img width="1151" height="552" alt="image" src="https://github.com/saud123/Superstore-Analysis-Using-Excel/blob/main/Dashboard%20-%201.PNG?raw=true" />
 
 
 ---
