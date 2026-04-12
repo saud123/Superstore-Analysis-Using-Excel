@@ -70,7 +70,7 @@ The final deliverable is a one-page interactive KPI dashboard designed for busin
 | Total Profit | $286,397.02 |
 | Average Order Value (AOV) | $229.86 |
 | Profit Margin | 12.47% |
-| Discount Effectiveness | -6.66 |
+| Discount Effectiveness | 88.78% |
 
 ---
 
@@ -135,7 +135,7 @@ The final deliverable is a one-page interactive KPI dashboard designed for busin
 ## 📷 Dashboard Preview
 
 
-<img width="1151" height="552" alt="image" src="https://github.com/saud123/Superstore-Analysis-Using-Excel/blob/main/Dashboard%20-%201.PNG?raw=true" />
+<img width="1151" height="552" alt="image" src="https://github.com/saud123/Superstore-Analysis-Using-Excel/blob/main/Dashboard%20superstore.png?raw=true" />
 
 
 ---
